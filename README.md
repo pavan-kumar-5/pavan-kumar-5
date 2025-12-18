@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavan-kumar-5/pavan-kumar-5/main/C:\Users\pkann\OneDrive\Documents\Resume Builder\client\public.png" width="120" />
+</p>
 
-<!--
-**pavan-kumar-5/pavan-kumar-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Resume Builder / Pavan Kumar</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Clean • Modern • Developer Friendly
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About
+YourProject is a collection of beautifully designed, ready-to-use components/projects built to help developers build faster and better.
+
+---
+
+## ✨ Features
+- ⚡ Fast & Simple
+- 🎨 Clean UI Design
+- 📦 Ready-to-use components
+- 💻 Beginner friendly
+
+---
+
+## 🔗 Links
+- 🌐 Portfolio: https://yourwebsite.com
+- 🐙 GitHub: https://github.com/pavan-kumar-5
+- 💼 LinkedIn: https://linkedin.com/in/k-pavan-kumar5
+
+---
+
+## ⭐ Support
+If you like this project, **give it a star ⭐**
